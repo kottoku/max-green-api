@@ -11,4 +11,6 @@ npm install
 npm run dev
 ```
 3. Открытие проекта
+```bash
 Открыть в браузере http://localhost:5173
+```
